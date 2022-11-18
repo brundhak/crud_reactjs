@@ -1,19 +1,14 @@
 
 # CRUD ReactJS
 
-Goal was to build a frontend to display, create, edit update delete the posts
+Goal was to build a frontend to display, create, edit update delete the posts.
 
 Functionalities 
-1. Posts should be visible to all the users.
+1. Posts is visible to all the users.
 
-2. Only loggedIn users should be able to create new posts, edit posts, delete posts.
+2. And only loggedIn users should be able to create new posts, edit posts, delete posts.
 
-3. Use Google Oauth for signIn signOut functionality, firebase can be used for storing user information.
-
-4. Application should be responsive according to device screen size(allowed to use material CSS, bootstrap).
-
-5. Push the code to the public github repo and submit the Github URL for evaluation with the readme file updated with the instructions to run the project.
-
+3. Used Google authentication for signIn signOut functionality, firebase is used for storing user information.
 
 
 ## Installation
