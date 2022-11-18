@@ -1,4 +1,3 @@
-# crud_reactjs
 
 # CRUD ReactJS
 
